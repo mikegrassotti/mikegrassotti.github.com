@@ -1,0 +1,10 @@
+---
+layout: post
+title: "mikedown"
+date: 2013-05-05 00:52
+comments: true
+categories: ideas, draft
+published: false
+---
+idea: mikedown format is like markdown but automates stuff I care about
+like for example will make screenshot of all the http://www.links.com in the text 
