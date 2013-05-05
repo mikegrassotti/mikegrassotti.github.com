@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mikegrassotti.github.io/atom.xml" rel="self"/>
   <link href="http://mikegrassotti.github.io/"/>
-  <updated>2013-05-05T00:47:54-04:00</updated>
+  <updated>2013-05-05T00:55:50-04:00</updated>
   <id>http://mikegrassotti.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress and Github pages]]></title>
+    <link href="http://mikegrassotti.github.io/blog/2013/05/05/hello-octopress-and-github-pages/"/>
+    <updated>2013-05-05T00:49:00-04:00</updated>
+    <id>http://mikegrassotti.github.io/blog/2013/05/05/hello-octopress-and-github-pages</id>
+    <content type="html"><![CDATA[<h3>OK let&#8217;s setup a blog&#8230;</h3>
+
+<p>Starting with instructions here: http://jekyllbootstrap.com/ (Zero to Hosted Jekyll Blog in 3 Minutes)</p>
+
+<p>Maybe later will try some of these tips to customize: http://erjjones.github.io/blog/How-I-built-my-blog-in-one-day/</p>
+
+<p>Figure I will go with this theme: http://themes.jekyllbootstrap.com/preview/mark-reid/</p>
+
+<p>Github repo: mikegrassotti.github.com</p>
+
+<p>http://erjjones.github.io/blog/How-I-built-my-blog-in-one-day/</p>
+
+<p>&#8220;DO OVER!!&#8221;</p>
+
+<p>Oops I just realized jekyll bootstrap is a huge hack. Octopress instead…</p>
+
+<ol>
+<li>Did this to install: http://octopress.org/docs/setup/</li>
+<li>Now deploying: http://octopress.org/docs/deploying/github/</li>
+</ol>
+
+
+<p>Strange - it didn&#8217;t add my gh repo as origin and page still not live: http://mikegrassotti.github.io/</p>
+
+<p>DOH! I named repo just mikegrassotti needed to be named mikegrassotti.github.com - tried again, now it works</p>
+
+<p>Chose whiterspace theme - list of options here: https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes</p>
+]]></content>
+  </entry>
   
 </feed>
